@@ -1,3 +1,6 @@
+# Firebase Serviceinfo
+ios/GoogleService-Info.plist 
+
 # Miscellaneous
 *.class
 *.log
